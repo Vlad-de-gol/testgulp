@@ -1,0 +1,23 @@
+{
+  "name": "gulppllus",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "package.json",
+  "scripts": {
+    "test": "cd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlad-de-gol/testgulp.git"
+  },
+  "author": "vlad-de-gol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlad-de-gol/testgulp/issues"
+  },
+  "homepage": "https://github.com/Vlad-de-gol/testgulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat-css": "^2.3.0"
+  }
+}
