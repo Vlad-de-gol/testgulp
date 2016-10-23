@@ -1,0 +1,14 @@
+section{
+	position: relative;
+	width:100%;
+	min-height: 80px;
+}
+.orange{
+  background-color:orange;
+}
+.green{
+	background-color:green;
+}
+.red{
+	background: red;
+}
